@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# Azure SDKs
+azure-ai-formrecognizer
+azure-ai-vision-imageanalysis
+azure-storage-blob
+azure-identity
+
+# LLM (Azure OpenAI compatible)
+openai
+
+# Utilities
+requests
+pydantic
+python-multipart

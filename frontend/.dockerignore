@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# Git
+.git
+.gitignore
+
+# OS / IDE
+.DS_Store
+.vscode/
+
+# Node / frontend artifacts (if ever added)
+node_modules/
